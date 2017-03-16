@@ -1,14 +1,14 @@
-#Afroelixir Landing page
-###**Getting started**
-###Technologies Used
-####HTML5, CSS3, Bootstrap 3.3, JavaScript, jQuery
+# Afroelixir Landing page
+### **Getting started**
+### Technologies Used
+#### HTML5, CSS3, Bootstrap 3.3, JavaScript, jQuery
  - Run :  `git clone https://github.com/getwebem/afroelixir.git`
  - Run :  `cd afroelixir`
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
  
- ###Used Theme: http://wrapbootstrap.com/preview/WB0T49865
+ ### Used Theme: http://wrapbootstrap.com/preview/WB0T49865
  
  
 <br/><br/>
