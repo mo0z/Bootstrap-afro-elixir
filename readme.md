@@ -1,5 +1,4 @@
-# Afroelixir Landing page
-### **Getting started**
+# Afroelixir
 ### Technologies Used
 #### HTML5, CSS3, Bootstrap 3.3, JavaScript, jQuery
  - Run :  `git clone https://github.com/getwebem/afroelixir.git`
@@ -7,18 +6,7 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
- 
- ### Used Theme: http://wrapbootstrap.com/preview/WB0T49865
- 
- 
+   - [View Demo](http://getwebem.com/afroelixir/)  
 <br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/afroelixir/Screen%20Shot%202017-03-14%20at%2000.18.15.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/afroelixir/Screen%20Shot%202017-03-14%20at%2000.16.49.png)
-<br/><br/>
-
-<br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/afroelixir/Screen%20Shot%202017-03-14%20at%2000.16.58.png)
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/afroelixir/Screen%20Shot%202017-08-07%20at%2015.21.30.png)
 <br/><br/>
